@@ -1,4 +1,4 @@
 .PHONY: test
 
 test:
-     echo "Hello"
+	echo "Hello"
